@@ -1,5 +1,5 @@
 {
-  "name": "Redux booklist",
+  "name": "redux-simple-starter",
   "version": "1.0.0",
   "description": "Simple Redux with React and Babel application",
   "main": "index.js",
